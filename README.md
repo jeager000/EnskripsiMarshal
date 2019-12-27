@@ -1,16 +1,16 @@
 # EnskripsiMarshal
 
-Alat untuk men-enskripsi skrip kamu.
+<h2>Alat untuk men-enskripsi skrip kamu.</h2>
 
-Installisasi:
-$apt update && apt upgrade -y
-$apt install python -y
-$apt install git -y
-$git clone https://github.com/jeager000/EnskripsiMarshal.git
+<h3>Installisasi:</h3>
+<p>$apt update && apt upgrade -y</p>
+<p>$apt install python -y</p>
+<p>$apt install git -y</p>
+<p>$git clone https://github.com/jeager000/EnskripsiMarshal.git</p>
 
-Menjalankan:
-$cd EnskripsiMarshal
-$python marshal.py
+<h3>Menjalankan:</h3>
+<p>$cd EnskripsiMarshal</p>
+<p>$python marshal.py</p>
 
 
 
